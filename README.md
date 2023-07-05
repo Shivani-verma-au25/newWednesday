@@ -1,2 +1,0 @@
-# newWednesday
-Animated website
